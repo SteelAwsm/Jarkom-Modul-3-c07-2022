@@ -6,6 +6,7 @@ Anggota Kelompok C07 :
 * 5025201209 - Hemakesha Ramadhani Heriqbaldi
 
 # Topologi
+![image](https://user-images.githubusercontent.com/78362238/201685803-f09eb2a3-fb65-4f37-b9c0-fa804df19d24.png)
 
 # Konfigurasi Network Node
 ## Ostania

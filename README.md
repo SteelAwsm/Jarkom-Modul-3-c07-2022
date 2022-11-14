@@ -142,6 +142,9 @@ lalu, jika proses instalasi memunculkan argumen, maka ketik (secara urut tiap ar
 eth1 eth3 eth2
 ```
 ```
+\n #kosongkan daemon
+```
+```
 apt-get install isc-dhcp-relay -y
 ```
 
